@@ -1,20 +1,17 @@
----
-
 # 🌍 **Small-World Effect in Network Models Using a Road Network Dataset**  
 
 [![Python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/) [![Network Science](https://img.shields.io/badge/Network%20Analysis-Gephi-green)](https://gephi.org/) [![Complex Networks](https://img.shields.io/badge/Complex%20Networks-Analysis-orange)]  
 
-## 📌 **Project Overview**  
-This study critically examines **Stanley Milgram’s small-world experiment** and investigates the **small-world effect** in different **network models** using a **real-world road network dataset**. The project applies **network science principles** to analyze the structure, connectivity, and properties of **random networks, scale-free networks (Barabasi-Albert model), and small-world networks (Watts-Strogatz model)** in comparison to real road networks.  
+📌 Project Overview
+This study critically examines Stanley Milgram’s small-world experiment and investigates the small-world effect in different network models using a real-world road network dataset. The project applies network science principles to analyze the structure, connectivity, and properties of random networks, scale-free networks (Barabasi-Albert model), and small-world networks (Watts-Strogatz model) in comparison to real road networks.
 
-### 🔹 **Key Focus Areas:**  
-✔ **Milgram’s Experiment & Six Degrees of Separation**  
-✔ **Analysis of Road Networks as Scale-Free Models**  
-✔ **Comparison: Random Poisson vs. Barabasi-Albert Scale-Free Networks**  
-✔ **Graph Metrics: Degree Distribution, Betweenness Centrality, Clustering Coefficient**  
-✔ **Network Visualization & Data Analysis Using Gephi**  
+🔹 Key Focus Areas:
+✔ Milgram’s Experiment & Six Degrees of Separation
+✔ Analysis of Road Networks as Scale-Free Models
+✔ Comparison: Random Poisson vs. Barabasi-Albert Scale-Free Networks
+✔ Graph Metrics: Degree Distribution, Betweenness Centrality, Clustering Coefficient
+✔ Network Visualization & Data Analysis Using Gephi
 
----
 
 ## 📊 **Dataset & Methodology**  
 ### **Dataset:**  
