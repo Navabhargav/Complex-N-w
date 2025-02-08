@@ -92,7 +92,10 @@ python network_analysis.py
 🔗 [LinkedIn](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151) | 🌐 [GitHub](https://github.com/Navabhargav)  
 
 👤 **Kaviya Thirumal**  
+🔗 [LinkedIn](https://www.linkedin.com/in/pon-ananth-veppalodai-senthurpandi-b5016262/)
+
 👤 **Pon Ananth Veppalodai Senthurapandi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/pon-ananth-veppalodai-senthurpandi-b5016262/)
 
 ---
 
